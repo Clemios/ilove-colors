@@ -14,10 +14,10 @@ var colors = {
     "color2" : ["Nepal","#95A6BD"],
     "color3" : ["Catskill White","#DFE6EF"],
 
-    "color4" : ["ReguDark Blue","#7F8893"],
-    "color5" : ["Dark Grey","#4A4A4A"],
-    "color6" : ["Regular Grey","#9B9B9B"],
-    "color7" : ["Light Grey","#F1F1F1"],
+    "color4" : ["Oslo Gray","#7F8893"],
+    "color5" : ["Tundora","#4A4A4A"],
+    "color6" : ["Dusty Gray","#9B9B9B"],
+    "color7" : ["Seashell","#F1F1F1"]
 };
 
 
