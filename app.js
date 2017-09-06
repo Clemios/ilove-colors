@@ -14,23 +14,12 @@ var colors = {
     "color2" : ["Regular Blue","#95A6BD"],
     "color3" : ["Light Blue","#DFE6EF"],
 
-    "color4" : ["Dark Grey","#7F8893"],
-    "color5" : ["Regular Grey","#9B9B9B"],
-    "color6" : ["Light Grey","#F1F1F1"],
+    "color4" : ["Darker Regular Blue","#7F8893"],
+    "color5" : ["Dark Grey","#4A4A4A"],
+    "color6" : ["Regular Grey","#9B9B9B"],
 
-    "color7" : ["Jaune Jungle","#fad170"],
-    "color8" : ["Jaune roger","#f9e07d"],
-    "colo19" : ["Jaune lamute","#f9edb0"],
-
-    "color10" : ["Vert Jungle","#35945d"],
-    "color11" : ["Vert roger","#63c48c"],
-    "color12" : ["Vert lamute","#a2efbd"],
-
-    "color13" : ["gris Jungle","#333333"],
-    "color14" : ["gris roger","#404a56"],
-    "color15" : ["gris lamute","#7f8894"],
-    "color16" : ["gris lamute -50","#BFC3C9"],
-    "color17" : ["gris janine","#f1f1f1"]
+    "color7" : ["Light Grey","#F1F1F1"],
+    "color8" : ["Light Grey","#F1F1F1"]
 };
 
 
