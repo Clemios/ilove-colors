@@ -10,13 +10,13 @@ function removeAllChild(node){
 }
 
 var colors = {
-    "color1" : ["Rose Jungle","#ef4850"],
-    "color2" : ["Rose roger","#ff6c73"],
-    "color3" : ["Rose lamute","#f8bcbf"],
+    "color1" : ["Dark Blue","#4C5B6E"],
+    "color2" : ["Regular Blue","#95A6BD"],
+    "color3" : ["Light Blue","#DFE6EF"],
 
-    "color4" : ["Bleu Jungle","#204762"],
-    "color5" : ["Bleu roger","#397395"],
-    "color6" : ["Bleu lamute","#bae1fd"],
+    "color4" : ["Dark Grey","#4A4A4A"],
+    "color5" : ["Regular Grey","#9B9B9B"],
+    "color6" : ["Light Grey","#F1F1F1"],
 
     "color7" : ["Jaune Jungle","#fad170"],
     "color8" : ["Jaune roger","#f9e07d"],
