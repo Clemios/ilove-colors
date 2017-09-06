@@ -14,7 +14,7 @@ var colors = {
     "color2" : ["Regular Blue","#95A6BD"],
     "color3" : ["Light Blue","#DFE6EF"],
 
-    "color4" : ["Darker Regular Blue","#7F8893"],
+    "color4" : ["ReguDark Blue","#7F8893"],
     "color5" : ["Dark Grey","#4A4A4A"],
     "color6" : ["Regular Grey","#9B9B9B"],
 
