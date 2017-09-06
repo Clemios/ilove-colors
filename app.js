@@ -17,9 +17,7 @@ var colors = {
     "color4" : ["ReguDark Blue","#7F8893"],
     "color5" : ["Dark Grey","#4A4A4A"],
     "color6" : ["Regular Grey","#9B9B9B"],
-
     "color7" : ["Light Grey","#F1F1F1"],
-    "color8" : ["Light Grey","#F1F1F1"]
 };
 
 
@@ -38,8 +36,8 @@ for (var color in colors) {
 
 
 var colorsPrint = {
-    "color1" : ["Rose Jungle print","Pantone 710 C","#e73e51"],
-    "color2" : ["Bleu Jungle print","Pantone 288 CP","#12326e"],
+   // "color1" : ["Rose Jungle print","Pantone 710 C","#e73e51"],
+   // "color2" : ["Bleu Jungle print","Pantone 288 CP","#12326e"],
 };
 
 
