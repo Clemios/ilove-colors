@@ -10,9 +10,9 @@ function removeAllChild(node){
 }
 
 var colors = {
-    "color1" : ["Dark Blue","#4C5B6E"],
-    "color2" : ["Regular Blue","#95A6BD"],
-    "color3" : ["Light Blue","#DFE6EF"],
+    "color1" : ["Fiord","#4C5B6E"],
+    "color2" : ["Nepal","#95A6BD"],
+    "color3" : ["Catskill White","#DFE6EF"],
 
     "color4" : ["ReguDark Blue","#7F8893"],
     "color5" : ["Dark Grey","#4A4A4A"],
